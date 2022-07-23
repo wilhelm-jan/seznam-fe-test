@@ -1,0 +1,17 @@
+{
+  "name": "seznam-fe-test",
+  "version": "1.0.0",
+  "description": "Foobar is a JavaScript library to generating unique id for device.",
+  "main": "Ddid.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^28.1.3",
+    "jest-environment-jsdom": "^28.1.3"
+  },
+  "type": "module"
+}
